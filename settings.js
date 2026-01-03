@@ -4,7 +4,7 @@
 
 module.exports = {
     // Bot Configuration
-    BOT_TOKEN: "8224016343:AAHMQxQOO92H_8xyvIqJ0TQucp8M7al", // Get from @BotFather
+    BOT_TOKEN: "7301942952:AAGfK-vRLDOfG3dWVb3zECgHlF0rGKrWXOk", // Get from @BotFather
     
     // Owner Information
     OWNER: {
